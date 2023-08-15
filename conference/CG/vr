@@ -1,0 +1,14 @@
+- title: VR
+  description: IEEE Conference on Virtual Reality and 3D User Interfaces
+  sub: CG
+  rank: A
+  dblp: vr
+  confs:
+    - year: 2024
+      id: vr2024
+      link: http://ieeevr.org/2024/
+      timeline:
+        - deadline: Sep 27, 2023
+      timezone: AoE
+      date: March 16-20, 2024
+      place: Orlando, FL, USA
